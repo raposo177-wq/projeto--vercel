@@ -1,0 +1,24 @@
+@import url(variaveis.css);
+* {
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: var(--cor-pricipal);
+    color: var(--texto-pricipal);
+
+    height: var(--altura-header);
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+
+.navigation a {
+    text-decoration: none;
+    color: var(--texto-pricipal)
+}

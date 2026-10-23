@@ -1,0 +1,7 @@
+@import url(layout.css);
+
+.hero{
+    background-attachment: var(--cor-secundária);
+
+    height: 90vh;
+}
