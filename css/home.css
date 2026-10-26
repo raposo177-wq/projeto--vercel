@@ -2,6 +2,7 @@
 
 .hero{
     background-attachment: var(--cor-secundária);
+    
 
     height: 90vh;
 }

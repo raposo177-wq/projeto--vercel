@@ -3,10 +3,44 @@
     --cor-secundária: #FFE691;
 
     --texto-pricipal: #262626;
-    --cor-do-texto-secundário: #FAFAFA;
+    --cor-do-texto-secundária: #FAFAFA;
 
     --altura-header: 7.5vh;
     --altura-do-footer:15vh;
 
 
 }
+@font-face{
+    font-family: "Fonte Título";
+    src: url(../assets/fonts/pacifico.ttf);
+
+}
+
+@font-face{
+    font-family: 'Fonte Corpo';
+    src: url(../assets/fonts/Poppins-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Fonte Corpo';
+    src: url(../assets/fonts/Poppins-Bold.ttf);
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Fonte Corpo';
+    src: url(../assets/fonts/Poppins-Italic.ttf);
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face{
+    font-family: 'Fonte Corpo';
+    src: url(../assets/fonts/Poppins-BoldItalic.ttf);
+    font-weight: bold;
+    font-style: italic;
+}
+ 
